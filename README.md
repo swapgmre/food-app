@@ -1,4 +1,4 @@
-# Namaste React
+# Food App
 
 # Parcel
 
