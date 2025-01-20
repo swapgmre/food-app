@@ -3,3 +3,4 @@
 .parcel-cache
 *.md
 Notes.txt
+/coverage
